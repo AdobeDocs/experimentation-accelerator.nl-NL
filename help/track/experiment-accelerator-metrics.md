@@ -56,6 +56,6 @@ De volgende cijfers zijn beschikbaar:
 
 * **[!UICONTROL Lift]**: maat voor de procentuele verbetering van de conversiesnelheid van een bepaalde behandeling ten opzichte van de basislijn.
 
-* **[!UICONTROL Confidence]**: Bewijs dat een bepaalde behandeling gelijk is aan de basisbehandeling. [Meer informatie](http://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL Confidence]**: Bewijs dat een bepaalde behandeling gelijk is aan de basisbehandeling. [Meer informatie](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL Contribution]**: Het aandeel van de totale verandering in de metrische waarde dat kan worden toegeschreven aan een specifiek experiment of een specifieke behandeling, waardoor de initiatieven die de grootste relatieve impact hebben, kunnen worden geïdentificeerd.
