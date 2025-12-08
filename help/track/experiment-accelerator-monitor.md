@@ -145,7 +145,7 @@ Merk op dat voor de Te produceren kansen van de Experimenteer, u eerst hypothese
 
    Voor experimenten die afkomstig zijn uit **[!DNL Adobe Target]** , worden de voorgestelde wijzigingen geladen in de testworkflow van **[!DNL Adobe Target]** .
 
-   ➡️ [&#x200B; Leer meer in de documentatie van Adobe Target &#x200B;](https://experienceleague.adobe.com/en/docs/target/using/activities/abtest/test-ab)
+   ➡️ [&#x200B; Leer meer in de documentatie van Adobe Target &#x200B;](https://experienceleague.adobe.com/nl/docs/target/using/activities/abtest/test-ab)
 
 1. In de experimentele weergave zijn dezelfde AI **[!UICONTROL Experimentation Opportunities]** die de Journey Optimizer Experimentation Accelerator heeft aangetroffen, toegankelijk.
 
@@ -167,7 +167,7 @@ De tabel **[!UICONTROL Results]** bevat een gedetailleerde prestatie-indeling va
 
 * **[!UICONTROL Lift]**: maat voor de procentuele verbetering van de conversiesnelheid van een bepaalde behandeling ten opzichte van de basislijn.
 
-* **[!UICONTROL Confidence]**: Bewijs dat een bepaalde behandeling gelijk is aan de basisbehandeling. [Meer informatie](http://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL Confidence]**: Bewijs dat een bepaalde behandeling gelijk is aan de basisbehandeling. [Meer informatie](http://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL Conversion rate]**: percentage profielen dat de gewenste actie heeft uitgevoerd (bijv. aankoop, aanmelden) na het zien van de behandeling.
 
