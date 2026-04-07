@@ -7,9 +7,9 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: inhoud, experiment, meerdere, publiek, behandeling
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -85,11 +85,11 @@ Voorbeeld: _wij geloven dat het veranderen van X Y wegens Z zal verhogen._
 Een goed experiment levert niet alleen een win-winsituatie op, maar levert ook een duidelijk, actief leren op.
 Hier is wat om te zoeken:
 
-&controle; **Statistisch Vertrouwen**: Het verschil tussen varianten is waarschijnlijk niet toe te schrijven aan toeval.
-&controle; **richt zich op Doelstellingen**: primaire metrisch wijst op betekenisvolle vooruitgang naar een bedrijfsdoelstelling.
-&controle; **Secundaire Gevolgen**: Geen significante negatieve nevengevolgen op verwante metriek.
-&controle; **Schaalbaarheid**: Het resultaat kan toekomstige besluiten informeren of aan andere gebieden worden algemeen gemaakt.
-&controle; **Duidelijkheid**: De oorzaak van het resultaat is redelijk geïsoleerd en begrepen.
+&amp;controle; **Statistisch Vertrouwen**: Het verschil tussen varianten is waarschijnlijk niet toe te schrijven aan toeval.
+&amp;controle; **richt zich op Doelstellingen**: primaire metrisch wijst op betekenisvolle vooruitgang in de richting van een bedrijfsdoelstelling.
+&amp;controle; **Secundaire Gevolgen**: Geen significante negatieve nevengevolgen op verwante metriek.
+&amp;controle; **Schaalbaarheid**: Het resultaat kan toekomstige besluiten informeren of aan andere gebieden worden algemeen gemaakt.
+&amp;controle; **Duidelijkheid**: De oorzaak van het resultaat is redelijk geïsoleerd en begrepen.
 
 Experimentatie gaat niet alleen over het vinden van de &quot;beste&quot; versie, het gaat over het opbouwen van kennis door middel van testen en iteratie. Als het goed gaat, onthullen de experimenten inzichten die slimmere beslissingen, betere gebruikerservaring en betere resultaten stimuleren.
 

@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: inhoud, experiment, meerdere, publiek, behandeling
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Toegang tot Journey Optimizer Experimentation Accelerator
 
-Na [&#x200B; het creëren van en het vormen van uw experiment &#x200B;](https://experienceleague.adobe.com/nl/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) en het verzenden van uw campagnes of reizen naar uw profielen, kunt u tot **[!UICONTROL Journey Optimizer Experimentation Accelerator]** toegang hebben om dieper in te duiken hoe uw experiment uitvoert.
+Na [ het creëren van en het vormen van uw experiment ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment) en het verzenden van uw campagnes of reizen naar uw profielen, kunt u tot **[!UICONTROL Journey Optimizer Experimentation Accelerator]** toegang hebben om dieper in te duiken hoe uw experiment uitvoert.
 
 U kunt **[!UICONTROL Journey Optimizer Experimentation Accelerator]** openen vanuit het linkermenu vanuit de vervolgkeuzelijst [!UICONTROL Experimentation] of via de Apps-schakeloptie. Gebruikers met alleen een Target-licentie hebben er alleen toegang toe via de Apps-schakeloptie.
 
@@ -55,7 +55,7 @@ Deze rol toewijzen aan nieuwe gebruikers:
 
 1. Voer de naam en het e-mailadres van de gebruiker in of kies een optie in de lijst en klik op **[!UICONTROL Save]** .
 
-   Als de gebruiker niet eerder werd gecreeerd, verwijs naar [&#x200B; deze documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/users).
+   Als de gebruiker niet eerder werd gecreeerd, verwijs naar [ deze documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 De gebruiker ontvangt een e-mail met instructies om toegang te krijgen tot uw exemplaar.
 
@@ -65,7 +65,7 @@ De gebruiker ontvangt een e-mail met instructies om toegang te krijgen tot uw ex
 
 +++ Leer hoe u aan experimenten gerelateerde machtigingen kunt toewijzen met een Adobe Target-licentie
 
-1. Open **[Admin Console &#x200B;](http://adminconsole.adobe.com/)**.
+1. Open **[Admin Console ](http://adminconsole.adobe.com/)**.
 
 1. Kies **[!UICONTROL Adobe Experience Platform]** in **[!UICONTROL Products]** .
 
@@ -104,11 +104,13 @@ Gebruikers die aan dit profiel zijn toegevoegd, hebben nu toegang tot Journey Op
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
